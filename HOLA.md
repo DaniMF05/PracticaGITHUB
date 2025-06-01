@@ -18,3 +18,5 @@ Entonces, si intento subir esto, veamos que pasa.
 Al parecer ya entiendo mucho mas de como funciona esto, intentemos una vez mas
 
 HOLAHOLAHOLA
+
+VAMOS A VER POR DIOS SANTISIMO SI FUNKA O NO FUNKA
