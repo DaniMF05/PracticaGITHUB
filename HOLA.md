@@ -18,5 +18,11 @@ Entonces, si intento subir esto, veamos que pasa.
 Al parecer ya entiendo mucho mas de como funciona esto, intentemos una vez mas
 
 HOLAHOLAHOLA
-
 VAMOS A VER POR DIOS SANTISIMO SI FUNKA O NO FUNKA
+
+
+ENTONCES ESTO LO ESTOY HACIENDO DESDE LA RAMA 2, Y QUIERO VER SI DE VERDAD YA ENTENDI ESTE TEMA 
+VAMOS A VER 
+CON FE 
+
+Yo si soy pilisimas
