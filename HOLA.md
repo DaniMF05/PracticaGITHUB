@@ -14,3 +14,7 @@ Ahora vamos a intentar lo mismo pero desde el vs code, vamos con fe
 # VAMOS A VER
 
 Entonces, si intento subir esto, veamos que pasa.
+
+Al parecer ya entiendo mucho mas de como funciona esto, intentemos una vez mas
+
+HOLAHOLAHOLA
